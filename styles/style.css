@@ -82,3 +82,11 @@ a.active {
     border-bottom-color: #3aaa64;
     border-bottom-width: 2px;
 }
+
+@media only screen and (max-width: 650px) {
+
+    .txttitle{
+        text-align: center;
+    }
+
+}
