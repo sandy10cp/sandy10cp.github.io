@@ -83,10 +83,21 @@ a.active {
     border-bottom-width: 2px;
 }
 
+.card{
+    width: 20rem;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
 @media only screen and (max-width: 650px) {
 
     .txttitle{
         text-align: center;
+    }
+    .card{
+        width: 35rem;
+        margin-right: 5px;
+        margin-top: 5px;
     }
 
 }
